@@ -71,7 +71,7 @@
   </div>
 
   <div style="margin-top:40px;">
-    <a href="https://wa.me/91XXXXXXXXXX" style="background:#25D366; padding:16px 32px; border-radius:35px; color:#fff; text-decoration:none; font-weight:bold;">Apply Now</a>
+    <a href="https://wa.me/+971521120315" style="background:#25D366; padding:16px 32px; border-radius:35px; color:#fff; text-decoration:none; font-weight:bold;">Apply Now</a>
   </div>
 
 </section>
@@ -80,6 +80,26 @@
 <section style="background:#111; color:#fff; padding:20px; text-align:center;">
   <p>© Middle East Recruiters</p>
 </section>
+
+<!-- POPUP -->
+<div id="popup" style="position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.7); display:flex; justify-content:center; align-items:center; z-index:9999;">
+  <div style="position:relative; max-width:500px; width:90%;">
+    <img src="/images/ad-banner.jpg" style="width:100%; border-radius:12px;" />
+    <button onclick="closePopup()" style="position:absolute; top:10px; right:10px; background:#fff; border:none; border-radius:50%; width:30px; height:30px; cursor:pointer;">✕</button>
+  </div>
+</div>
+
+<script>
+  function closePopup() {
+    document.getElementById('popup').style.display = 'none';
+  }
+
+  // Auto close after 6 sec
+  setTimeout(() => {
+    const popup = document.getElementById('popup');
+    if (popup) popup.style.display = 'none';
+  }, 6000);
+</script>
 
 </body>
 </html>
