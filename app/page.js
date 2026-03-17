@@ -393,6 +393,78 @@ export default function MerecruitersWebsite() {
         </div>
 
       </section>
+<!-- PREMIUM Testimonials Section (Clean + High Trust) -->
+<section id="testimonials" style="padding:70px 20px; background:linear-gradient(135deg,#f5f7fa,#e4ecf7); text-align:center;">
+  <h2 style="font-size:34px; margin-bottom:10px;">Real Success Stories</h2>
+  <p style="color:#555; margin-bottom:40px; font-size:16px;">100% genuine candidates placed in UAE</p>
+
+  <!-- GRID (Premium look) -->
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px; max-width:1100px; margin:auto;">
+
+    <!-- Card 1 -->
+    <div style="width:300px; background:#fff; border-radius:18px; padding:20px; box-shadow:0 10px 25px rgba(0,0,0,0.12); transition:0.3s;">
+      <img src="/images/imran.jpg" style="width:100%; height:180px; object-fit:cover; border-radius:12px; margin-bottom:12px;" />
+      <div style="color:#f5b50a; font-size:18px;">★★★★★</div>
+      <p style="font-size:14px;">"Got electrician job in Abu Dhabi. Fast and smooth process."</p>
+      <h4>Imran Khan</h4>
+      <span style="color:#777;">Electrician – Pakistan</span>
+    </div>
+
+    <!-- Card 2 -->
+    <div style="width:300px; background:#fff; border-radius:18px; padding:20px; box-shadow:0 10px 25px rgba(0,0,0,0.12);">
+      <img src="/images/suresh-thapa.jpg" style="width:100%; height:180px; object-fit:cover; border-radius:12px; margin-bottom:12px;" />
+      <div style="color:#f5b50a;">★★★★★</div>
+      <p style="font-size:14px;">"Got plumber job in Dubai. Very genuine company."</p>
+      <h4>Suresh Thapa</h4>
+      <span style="color:#777;">Plumber – Nepal</span>
+    </div>
+
+    <!-- Card 3 -->
+    <div style="width:300px; background:#fff; border-radius:18px; padding:20px; box-shadow:0 10px 25px rgba(0,0,0,0.12);">
+      <img src="/images/driver-real.jpg" style="width:100%; height:180px; object-fit:cover; border-radius:12px; margin-bottom:12px;" />
+      <div style="color:#f5b50a;">★★★★★</div>
+      <p style="font-size:14px;">"Driving job in Dubai secured quickly. Highly recommended."</p>
+      <h4>Mohammed Arif</h4>
+      <span style="color:#777;">Driver – India</span>
+    </div>
+
+    <!-- Card 4 -->
+    <div style="width:300px; background:#fff; border-radius:18px; padding:20px; box-shadow:0 10px 25px rgba(0,0,0,0.12);">
+      <img src="/images/truck-driver.jpg" style="width:100%; height:180px; object-fit:cover; border-radius:12px; margin-bottom:12px;" />
+      <div style="color:#f5b50a;">★★★★★</div>
+      <p style="font-size:14px;">"Now working as heavy driver in UAE. Thank you MER."</p>
+      <h4>Salman Khan</h4>
+      <span style="color:#777;">Heavy Driver – Pakistan</span>
+    </div>
+
+    <!-- Card 5 -->
+    <div style="width:300px; background:#fff; border-radius:18px; padding:20px; box-shadow:0 10px 25px rgba(0,0,0,0.12);">
+      <img src="/images/taxi-drivers.jpg" style="width:100%; height:180px; object-fit:cover; border-radius:12px; margin-bottom:12px;" />
+      <div style="color:#f5b50a;">★★★★★</div>
+      <p style="font-size:14px;">"Got taxi job with good salary and benefits."</p>
+      <h4>Ajay & Rafiq</h4>
+      <span style="color:#777;">Taxi Drivers – UAE</span>
+    </div>
+
+    <!-- License Proof (blurred) -->
+    <div style="width:300px; background:#fff; border-radius:18px; padding:15px; box-shadow:0 10px 25px rgba(0,0,0,0.12);">
+      <img src="/images/license-1.jpg" style="width:100%; height:180px; object-fit:cover; border-radius:12px; filter:blur(4px);" />
+      <p style="font-size:12px; margin-top:10px;">Verified UAE License (blurred for privacy)</p>
+      <h4>Verified Candidate</h4>
+      <span style="color:#777;">Driver – UAE</span>
+    </div>
+
+  </div>
+
+  <!-- STRONG CTA -->
+  <div style="margin-top:50px;">
+    <a href="https://wa.me/91XXXXXXXXXX" style="background:#25D366; color:#fff; padding:16px 32px; border-radius:35px; text-decoration:none; font-weight:bold; font-size:16px; box-shadow:0 6px 20px rgba(0,0,0,0.25);">
+      Apply Now on WhatsApp
+    </a>
+  </div>
+
+</section>
+
 
 
       {/* EMPLOYERS */}
