@@ -393,7 +393,6 @@ export default function MerecruitersWebsite() {
         </div>
 
       </section>
-<!-- PREMIUM Testimonials Section (Clean + High Trust) -->
 <section id="testimonials" style="padding:70px 20px; background:linear-gradient(135deg,#f5f7fa,#e4ecf7); text-align:center;">
   <h2 style="font-size:34px; margin-bottom:10px;">Real Success Stories</h2>
   <p style="color:#555; margin-bottom:40px; font-size:16px;">100% genuine candidates placed in UAE</p>
